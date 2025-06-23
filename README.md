@@ -35,7 +35,7 @@ Bu projede, akciğer kanseri BT (Bilgisayarlı Tomografi) görüntülerinin sın
 
 Aşağıdaki diyagram, proje sürecimizin genel akışını özetlemektedir:
 
-![Veri İşleme ve Modelleme Süreci](./assets/proje_sureci.png)
+![Veri İşleme ve Modelleme Süreci](./images/Surec.png)
 
 ### Süreç Açıklaması
 
